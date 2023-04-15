@@ -1,7 +1,7 @@
 # PORTFÓLIO PAGE
 
 Spotify UI COPY utilizando apenas TailwindCss
-* Paleta de ícones e font utilizadas nao são as mesmas do Spotify
+* Paleta de ícones e font utilizadas não são as mesmas do Spotify!
 
 ## 🚀 Começando
 
